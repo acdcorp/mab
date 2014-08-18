@@ -3,7 +3,7 @@ require File.dirname(__FILE__) + '/lib/mab/version'
 require 'date'
 
 Gem::Specification.new do |s|
-  s.name          = 'mab'
+  s.name          = 'mab-cj'
   s.version       = Mab::VERSION
   s.date          = Date.today.to_s
 
